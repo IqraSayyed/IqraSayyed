@@ -42,7 +42,6 @@
 
 ### 📊 Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
@@ -54,6 +53,7 @@
 <img src="https://skillicons.dev/icons?i=anaconda,git,github,vscode" />
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
+
 ---
 
 ## 📂 Projects
