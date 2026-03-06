@@ -31,7 +31,7 @@
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,r,java,mysql,git,github" />
 </p>
 
 ---
