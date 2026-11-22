@@ -1,21 +1,18 @@
-# hey, i'm iqra! 🪄
+# Hey, I'm iqra! 🪄
 
-**a data science student with too many ideas and not enough hours in a day.**
+**A data science student with too many ideas and not enough hours in a day.**
 
-i started with curiosity, stayed for the problem-solving, and somehow ended up enjoying the process of turning messy data into something meaningful.
+I started with curiosity, stayed for the problem-solving, and somehow ended up enjoying the process of turning messy data into something meaningful.
 
-i'm into data, technology, AI and building things that actually make sense (eventually).
+I'm into data, technology, AI and building things that actually make sense (eventually).
 
-usually found:
-- exploring python, sql, and the world of data science
-- experimenting with machine learning & AI
-- turning random ideas into projects
-- learning something new and immediately finding 5 more things to learn
+Usually found:
+- Building projects, breaking things, fixing them (sometimes), and learning something new every day.
+  
+I believe in figuring things out, asking too many questions, and learning by doing.
 
-i believe in figuring things out, asking too many questions, and learning by doing.
+**Still a work in progress. so is my code.**
 
-**still a work in progress. so is my code.**
+> Curious by nature. Analytical by choice. Building as i go.
 
-> curious by nature. analytical by choice. building as i go.
-
-let's connect: [linkedin](https://linkedin.com/in/iqra-sayyed-20995a377/)
+Let's connect: [linkedin](https://linkedin.com/in/iqra-sayyed-20995a377/)
